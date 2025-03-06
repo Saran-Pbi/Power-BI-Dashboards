@@ -42,4 +42,5 @@ This dashboard helps the customers to understand their Sales performance better.
 A single page report was created on Power BI Desktop & it was then published to Power BI Service.
 
 
-Snapshot:![Screenshot 2024-09-20 175702](https://github.com/user-attachments/assets/7f0e996f-50c4-47f5-acd5-a3221135ed03)
+![image](https://github.com/user-attachments/assets/c5f9a23e-9285-423b-bd18-cd50a06dd651)
+
